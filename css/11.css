@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#menu_text{
+	background-color: #e30b9b;
+	color: lightyellow;
+	text-align: center;
+	padding: 80px;
+	margin: 30px;
+}
+nav a {
+	background-color: lightskyblue;
+	padding: 14px 20px ;
+	text-align: center;
+	margin-bottom: 10px;
+
+}
